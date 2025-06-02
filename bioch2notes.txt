@@ -1,0 +1,162 @@
+Bio 2101 ch 1-3 notes TO KNOW
+
+Homeostasis drives physiology
+
+Anatomy
+study of body structures
+1600BC
+
+Physiology
+Study of function
+Individual and cooperative
+CELL - Processes within and between cells
+ORGAN - functions of specific organs
+SYSTEMIC - functions of organ system
+PATHOLOGICAL - effects of diseases
+
+Microscopic anatomy
+Cytology - study of cells
+Histology - study of tissue
+
+Levels of organization
+chemical 
+Atoms, molecules are collections
+Cellular
+Groups of atoms, molecules, organelles working together
+Tissue
+Group of similar cells working together
+Organ
+Group of different tissues working together
+
+Atom -> chemical -> protein -> tissue -> organ -> organ system -> organism
+
+Organ systems
+Integumentary
+Skin, hair, sweat glands
+Protects against environment
+Regulate temp
+Provide sensory info
+
+Skeletal
+Bones, cartilage, ligaments, bone marrow
+Support, calcium store, forms blood cells
+
+
+Muscular
+Skeletal muscles and tendons
+Movement
+Protection for tissue
+Generate heat
+
+Nervous system
+Brain, spine, peripheral nerves, sense organs
+pass response stimuli
+Interpret sense info
+
+Endocrine system
+Pituitary, pancreas, gonadsm thyroid, adrenal, endocrine tissue
+Direct long term change 
+Adjust metabolic activity
+Control structural and functional changes during development
+
+Cardiovascular system
+Heart, Blood, Blood vessels
+Distribute blood cells, water, materials and nutrients, waste product, oxygen, distribute heat
+
+Lymphatic system
+Spleen, thymus, lym[h vessels, lymph nodes, tonsils
+Defend against infection, return tissue fluid to blood stream
+
+Respiratory system
+Nasal cavities, larynx, trachea,bronchi, lungs, alveoli (lung sacks)
+Deliver air to lungs, remove carbon dioxide, produce sound
+
+Digestive system
+Mouth, teeth, esophogas, intestines,m liver, gallbladder, pancreas
+Digest food, process water, produce waste
+
+Urinary
+Kidneys, ureters, urinary bladder, urethra
+Excrete waste, control water balance, stores urine, regulate blood ion concntrations and ph
+
+Reproductive
+Male - testes, epididymides, ductus deferentia, smenical vesicles, prostate gland, penis, scrotum
+Female - ovaries, uterine tube, uterus, vagina, labia, clitoris, mammary gland
+Produce femalxe sex cells, support developing embryo, provide milk
+
+CH 2
+Cellular respiration - 3 steps
+Glycolysis
+Citric acid cycle
+Electron transport chain
+
+Glycolosys
+Glyco - break, ysis - sugar
+
+Hydrogen key part of process
+
+Each carbon of the glucose has 2 hydrogens
+6 oxygons
+
+
+
+Oxygen is greedy, hogs electrons
+
+Goal:  get hydrogen to the citric acid cycle (and finally the electron transport chain)
+
+The point is to get the hydrogens off of the oxygons
+
+Enzyme splits the carbons in half
+
+Pyruvate is the resulting 3 carbon chain
+
+What comes out of glycolysis
+Pyruvic acid
+2 ATP
+NADH which carries the hydrogens (otherwise they would bond to something)
+
+Citric Acid Cycle - inputs 
+Acetyl-coenzyme A (2 pyruvate)
+NADH w/ APT
+Oxygon
+
+This is where carbon and oxygen comes off glucose
+
+What comes out
+FAFH2
+2 ATP
+
+Got lots of carriers with hydrogen! 
+
+All this is happening on membrane of mitochondria
+Electron transport chain - INPUTS
+NADH
+FADH2
+
+On membrane is protein called ATP Synthase 
+“ASE” means ENZYME
+
+Hydrogen carrier NADH “goes over” these, making it lose the hydrogen
+
+This process caused hydrogen to lose electron, causing hydrogen to be positively charged
+
+NADH goes back
+
+Now we are at a CONCENTRATION GRADIENT
+All hydrogens on one side, and now the hydrogens “want” to bond with whats on the other side of the gradient
+The ETC harnesses this
+
+Often the body creates a dam, pumps water, and harnesses the dam for energy
+
+Two aspects of this energy
+Hydrogen wants to bond because its hydrogen
+Positively charged because no electrons
+
+ATP synthase “turns the wheel” with the positive hydrogen, and this turns ADP into ATP
+28-32 ATP generated here
+
+Hydrogen bonds to oxygen
+
+
+
+
