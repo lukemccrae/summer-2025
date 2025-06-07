@@ -1,0 +1,295 @@
+[
+    {
+      "question": "What is the anatomical term for the cheek?",
+      "options": ["Buccal", "Mental", "Nasal", "Orbital"],
+      "correct": 0
+    },
+    {
+      "question": "Where is the popliteal region located?",
+      "options": ["Back of the knee", "Back of the neck", "Heel", "Groin"],
+      "correct": 0
+    },
+    {
+      "question": "What does the term 'carpal' refer to?",
+      "options": ["Wrist", "Ankle", "Palm", "Thigh"],
+      "correct": 0
+    },
+    {
+      "question": "Which region is the armpit?",
+      "options": ["Axillary", "Inguinal", "Femoral", "Coxal"],
+      "correct": 0
+    },
+    {
+      "question": "What is the anatomical name for the thumb?",
+      "options": ["Pollex", "Hallux", "Digital", "Palmer"],
+      "correct": 0
+    },
+    {
+      "question": "Where is the sural region?",
+      "options": ["Back of calf", "Front of calf", "Forearm", "Shoulder blade"],
+      "correct": 0
+    },
+    {
+      "question": "What is the term for the navel?",
+      "options": ["Umbilical", "Pubic", "Epigastric", "Lumbar"],
+      "correct": 0
+    },
+    {
+      "question": "Which region is the shoulder blade?",
+      "options": ["Scapular", "Acromial", "Coxal", "Brachial"],
+      "correct": 0
+    },
+    {
+      "question": "What does 'femoral' refer to?",
+      "options": ["Thigh", "Shin", "Foot", "Neck"],
+      "correct": 0
+    },
+    {
+      "question": "Which plane separates the body into left and right sections?",
+      "options": ["Sagittal plane", "Coronal plane", "Transverse plane", "Oblique plane"],
+      "correct": 0
+    },
+    {
+      "question": "Which plane divides the body into anterior and posterior (front and back) portions?",
+      "options": ["Coronal plane", "Transverse plane", "Sagittal plane", "Oblique plane"],
+      "correct": 0
+    },
+    {
+      "question": "Which plane divides the body into superior and inferior (top and bottom) portions?",
+      "options": ["Transverse plane", "Sagittal plane", "Coronal plane", "Median plane"],
+      "correct": 0
+    },
+    {
+      "question": "The thoracic cavity is part of which larger cavity?",
+      "options": ["Ventral cavity", "Dorsal cavity", "Cranial cavity", "Pelvic cavity"],
+      "correct": 0
+    },
+    {
+      "question": "Which cavity contains the brain?",
+      "options": ["Cranial cavity", "Thoracic cavity", "Pelvic cavity", "Abdominal cavity"],
+      "correct": 0
+    },
+    {
+      "question": "The vertebral cavity contains the:",
+      "options": ["Spinal cord", "Heart", "Lungs", "Liver"],
+      "correct": 0
+    },
+    {
+      "question": "Which abdominal quadrant contains the appendix?",
+      "options": [
+        "Right lower quadrant (RLQ)",
+        "Right upper quadrant (RUQ)",
+        "Left upper quadrant (LUQ)",
+        "Left lower quadrant (LLQ)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is found in the right hypochondriac region?",
+      "options": ["Liver", "Stomach", "Spleen", "Appendix"],
+      "correct": 0
+    },
+    {
+      "question": "What region is superior to the umbilical region?",
+      "options": ["Epigastric", "Hypogastric", "Left lumbar", "Right lumbar"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is NOT a body cavity?",
+      "options": ["Lumbar", "Cranial", "Pelvic", "Thoracic"],
+      "correct": 0
+    },
+    {
+      "question": "True or False: The epidermis is superficial to the dermis.",
+      "options": ["True", "False"],
+      "correct": 0
+    },
+    {
+      "question": "The antecubital is ___ to the palmer.",
+      "options": ["Proximal", "Distal", "Lateral", "Inferior"],
+      "correct": 0
+    },
+    {
+      "question": "The digits are ___ to the fibular.",
+      "options": ["Caudal", "Superior", "Medial", "Proximal"],
+      "correct": 0
+    },
+    {
+      "question": "The sternal is ___ to the vertebral.",
+      "options": ["Anterior", "Posterior", "Lateral", "Inferior"],
+      "correct": 0
+    },
+    {
+      "question": "The perineal is ___ to the pubic.",
+      "options": ["Ventral", "Dorsal", "Inferior", "Proximal"],
+      "correct": 0
+    },
+    {
+      "question": "The thoracic is ___ to the abdominal.",
+      "options": ["Superior", "Inferior", "Posterior", "Distal"],
+      "correct": 0
+    },
+    {
+      "question": "The gluteal is ___ to the lumbar.",
+      "options": ["Inferior", "Superior", "Anterior", "Lateral"],
+      "correct": 0
+    },
+    {
+      "question": "The scapular is ___ to the nuchal.",
+      "options": ["Lateral", "Medial", "Superior", "Inferior"],
+      "correct": 0
+    },
+    {
+      "question": "The carpal is ___ to the axillary.",
+      "options": ["Distal", "Proximal", "Medial", "Superior"],
+      "correct": 0
+    },
+    {
+      "question": "The nasal is ___ to the buccal.",
+      "options": ["Medial", "Lateral", "Inferior", "Superior"],
+      "correct": 0
+    },
+    {
+      "question": "What is the correct order of organization from smallest to largest?",
+      "options": [
+        "Atom, molecule, cell, tissue, organ, organ system, organism",
+        "Cell, atom, tissue, organ, molecule, organ system, organism",
+        "Organ, tissue, molecule, atom, cell, organ system, organism",
+        "Molecule, cell, atom, tissue, organ, organ system, organism"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which organ system includes skin, hair, and sweat glands?",
+      "options": [
+        "Integumentary",
+        "Muscular",
+        "Digestive",
+        "Nervous"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the main function of the skeletal system?",
+      "options": [
+        "Support and protect, store calcium, form blood cells",
+        "Movement",
+        "Deliver air to lungs",
+        "Defend against infection"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which system distributes blood, nutrients, and heat?",
+      "options": [
+        "Cardiovascular",
+        "Lymphatic",
+        "Endocrine",
+        "Respiratory"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which organ system controls long-term changes in the body?",
+      "options": [
+        "Endocrine",
+        "Nervous",
+        "Digestive",
+        "Muscular"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "True or False: The respiratory system removes carbon dioxide from the body.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which system excretes waste and regulates blood pH?",
+      "options": [
+        "Urinary",
+        "Digestive",
+        "Lymphatic",
+        "Muscular"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which system produces female sex cells and supports developing embryos?",
+      "options": [
+        "Reproductive",
+        "Muscular",
+        "Integumentary",
+        "Nervous"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What are the three steps of cellular respiration?",
+      "options": [
+        "Glycolysis, Citric acid cycle, Electron transport chain",
+        "Glycolysis, Calvin cycle, Electron transport chain",
+        "Citric acid cycle, Glycolysis, Photosynthesis",
+        "Photosynthesis, Glycolysis, Electron transport chain"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is the main purpose of glycolysis?",
+      "options": [
+        "Break down glucose to form pyruvate, ATP, and NADH",
+        "Produce oxygen",
+        "Store calcium",
+        "Digest proteins"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What molecule carries hydrogen to the electron transport chain?",
+      "options": ["NADH", "Oxygen", "ATP", "Glucose"],
+      "correct": 0
+    },
+    {
+      "question": "Where does the electron transport chain occur?",
+      "options": [
+        "On the inner membrane of the mitochondria",
+        "In the cytoplasm",
+        "In the nucleus",
+        "On the ribosome"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What enzyme produces ATP during cellular respiration?",
+      "options": [
+        "ATP synthase",
+        "Lactase",
+        "Amylase",
+        "Pepsin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "How many ATP are generated by the electron transport chain?",
+      "options": [
+        "28-32",
+        "2",
+        "4",
+        "10-12"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is produced as a waste product at the end of cellular respiration?",
+      "options": [
+        "Water",
+        "Carbon dioxide",
+        "Glucose",
+        "Lactic acid"
+      ],
+      "correct": 0
+    }
+  ]
